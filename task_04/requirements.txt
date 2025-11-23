@@ -3,3 +3,4 @@ pypdf
 openai
 openagents-sdk
 python-dotenv
+google-generativeai
