@@ -1,6 +1,6 @@
 streamlit
 pypdf
-openai
+openai-agents
 openagents-sdk
 python-dotenv
 google-generativeai
