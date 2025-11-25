@@ -1,5 +1,5 @@
 def main():
-    print("Hello from project-01!")
+    print("Hello from pdf-quiz-gen-app!")
 
 
 if __name__ == "__main__":
