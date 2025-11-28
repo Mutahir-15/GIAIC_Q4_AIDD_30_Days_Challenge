@@ -160,6 +160,7 @@ Your support motivates me to keep sharing my progress!
 ------------
 
 **Mutahir Bin Athar**
-GIAIC – Quarter 4 Student
-AI-Driven Development | Python | Agents | Prompt Engineering
 
+GIAIC – Quarter 4 Student
+
+AI-Driven Development | Python | Agents | Prompt Engineering
