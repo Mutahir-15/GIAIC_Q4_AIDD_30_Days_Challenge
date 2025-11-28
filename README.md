@@ -23,13 +23,12 @@ Welcome to my **30-Days AI-Driven Development Challenge**!This repository contai
 
 My goal is simple:
 
-> **Even a non-technical person should be able to understand what I learned from every task.**
-> So each task includes **simple explanations, examples, and clear steps**.
+> **Even a non-technical person should be able to understand what I learned from every task.**<br/>So each task includes **simple explanations, examples, and clear steps**.
 
 📂 Repository Structure
 -----------------------
 
-`   
+```
 📁 GIAIC_Q4_AIDD_30_Days_Challenge  
 │
 ├── 📄 README.md  (You are here)  
@@ -39,7 +38,7 @@ My goal is simple:
 ├── 📁 Task-03/  
 │    ...  
 ├── 📁 Task-15/   
-`
+```
 
 Each task PDF includes:
 
@@ -163,3 +162,4 @@ Your support motivates me to keep sharing my progress!
 **Mutahir Bin Athar**
 GIAIC – Quarter 4 Student
 AI-Driven Development | Python | Agents | Prompt Engineering
+
