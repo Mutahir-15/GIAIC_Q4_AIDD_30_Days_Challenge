@@ -14,8 +14,6 @@ Welcome to my **30-Days AI-Driven Development Challenge**!This repository contai
     
 *   **Spec-Kit-Plus**
     
-*   **PDF Summarization Agents**
-    
 *   **Automation Tools**
     
 *   **Prompt Engineering & AI Agent Design**
@@ -164,3 +162,4 @@ Your support motivates me to keep sharing my progress!
 GIAIC – Quarter 4 Student
 
 AI-Driven Development | Python | Agents | Prompt Engineering
+
