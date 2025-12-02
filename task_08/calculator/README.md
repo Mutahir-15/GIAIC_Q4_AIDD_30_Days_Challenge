@@ -5,7 +5,9 @@
 
 **AI-Driven Development — 30-Day Challenge**
 
-This repository contains my official submission for **Task 08** of the AIDD 30-Day Challenge.The goal was to build a **Simple Calculator** using **SpecKitPlus**, completing all **five structured phases** of specification-driven development.
+This repository contains my official submission for **Task 08** of the AIDD 30-Day Challenge.
+
+The goal was to build a **Simple Calculator** using **SpecKitPlus**, completing all **five structured phases** of specification-driven development.
 
 🚀 **Task Objective**
 ---------------------
@@ -37,12 +39,12 @@ Execute tasks and generate the final working calculator.
 
 You can view the full screenshot of all required commands here:
 
-🔗 **Google Drive Link:**[Click Here](https://drive.google.com/file/d/14gj-WWZdO8ZqE8d1kQfjvF6JbIGqsbc3/view?usp=drive_link)
+🔗 **[Google Drive Link](https://drive.google.com/file/d/14gj-WWZdO8ZqE8d1kQfjvF6JbIGqsbc3/view?usp=drive_link)**
 
 🌐 Streamlit App
 ----------------------------
 
-**🔗 Live Streamlit App:**_[Calculator](https://gemini-cli-calculator.streamlit.app/)_
+🔗 **[Live Streamlit App](https://gemini-cli-calculator.streamlit.app/)**
 
 🧠 **Tech Used**
 ----------------
