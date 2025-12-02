@@ -39,10 +39,10 @@ You can view the full screenshot of all required commands here:
 
 🔗 **Google Drive Link:**[Click Here](https://drive.google.com/file/d/14gj-WWZdO8ZqE8d1kQfjvF6JbIGqsbc3/view?usp=drive_link)
 
-🌐 Streamlit App (If Hosted)
+🌐 Streamlit App
 ----------------------------
 
-**🔗 Live Streamlit App:**_(https://gemini-cli-calculator.streamlit.app/)_
+**🔗 Live Streamlit App:**_[Calculator](https://gemini-cli-calculator.streamlit.app/)_
 
 🧠 **Tech Used**
 ----------------
